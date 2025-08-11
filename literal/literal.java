@@ -1,3 +1,4 @@
+package literal;
 public class literal{
     public static void main(String[] args){
         System.out.println("start output literal:");
@@ -20,6 +21,5 @@ public class literal{
         System.out.println("boolean: " + f);
         System.out.println("String: " + g);
         System.out.println("end output literal:");
-
     }
 }
